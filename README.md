@@ -34,6 +34,7 @@ further actions such as
 
 
 ## Technologies Used
+- Python 
 - numpy
 - pandas
 - seaborn
