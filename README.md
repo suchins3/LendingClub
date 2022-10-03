@@ -1,5 +1,7 @@
 # Lending club case study
 > Here we analyze and understand the driving factors behind loan default.The company does the risk assessment and based on the analysis decide on the loan disbursemtns.
+In this process we explain dervied reccomendation also identifies  applicants who likely to repay the loan or not. 
+In the step by step processes we show how we process data given, clean unnecessary data set, pre process and perform exploratory data analysis.
 
 
 ## Table of Contents
@@ -35,13 +37,4 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
