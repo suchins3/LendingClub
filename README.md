@@ -25,10 +25,9 @@ further actions such as
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Number of public recorded bankruptcies are correlated to no of public records. This is understandable.
+- Number of public recorded bankruptcies are correlated to no of months since last public record. This doesnt make much sense.
+- Total and open credit lines are correlated which is intuitive.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
