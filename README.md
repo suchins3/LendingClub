@@ -10,6 +10,7 @@ In the step by step processes we show how we process data given, clean unnecessa
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contributers](#contributers)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
