@@ -41,4 +41,8 @@ further actions such as
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Contributers
+- Indrajeet Jadhav 
+- Suchin chouta
+
 
