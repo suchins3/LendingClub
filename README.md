@@ -25,9 +25,16 @@ further actions such as
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Number of public recorded bankruptcies are correlated to no of public records. This is understandable.
-- Number of public recorded bankruptcies are correlated to no of months since last public record. This doesnt make much sense.
-- Total and open credit lines are correlated which is intuitive.
+  - People with very high credit revolving balance (above 40k) have higher default rate of 18.17%. These should be avoided.
+  - For high percent_cred_utlization over 98%, more than 25% customers have defaulted. So high percent credit use customers should be avoided.
+  - People with credit lines above 30 seem to have high default rate of 25%. People with open credit lines more than 30 should be avoided.
+  - People with public records seem to have high default rate of 22.5%. They can be avoided as loan applicants.
+  - People with low loan_to_income ratio (<6) are safe people to give loan with 10% default rate.
+  - People with high loan_to_income ratio (>30) are risky with 22% default rate.
+  - Loans for small businesses, renewalble energy are of the highest risk with 27.7% people defaulting. 
+  - Small business, education loans with high loan amnt to income ratio are very risky and should be avoided.
+  - People default very less for credit card, car and wedding. If these people have low loan to annual income ratio, These seem to be very safe loans.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
